@@ -1,0 +1,16 @@
+<yml_catalog date="2024-03-20 11:15">
+<shop>
+<offers>
+<offer id="3642104" group_id="еще один">
+<outlets>
+<outlet id="Первый" instock="12"/>
+<outlet id="Второй" instock="16"/>
+</outlets>
+<priceZones>
+<priceZone id="Москва" price= "3001"/>
+<priceZone id="Санкт-Петербург" price= "5001"/>
+</priceZones>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
