@@ -7,7 +7,7 @@
         <vat>VAT_7</vat>
         <shipmentPeriod>1</shipmentPeriod>
         <outlets>
-          <outlet id="d609ffee-37d6-454e-a53f-c45ad00892bd" instock="999"/>
+          <outlet id="1" instock="999"/>
         </outlets>
       </offer>
     </offers>
