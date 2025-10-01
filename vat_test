@@ -1,26 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2025-05-23 18:20">
+<yml_catalog date="2025-10-01 18:20">
   <shop>
     <offers>
-      <offer id="3657092" available="true">
-        <price>10001</price>
-        <vat>VAT_20</vat>
-        <shipmentPeriod>5</shipmentPeriod>
-        <outlets>
-          <outlet id="1" instock="1"/>
-        </outlets>
-      </offer>
-      <offer id="3657089" available="true">
-        <price>10002</price>
+      <offer id="3640408" available="true">
+        <price>9999</price>
         <vat>VAT_7</vat>
-        <shipmentPeriod>5</shipmentPeriod>
-        <count>1</count>
-      </offer>
-      <offer id="3657087" available="true">
-        <price>10003</price>
-        <vat>VAT_5</vat>
-        <shipmentPeriod>5</shipmentPeriod>
-        <instock>1</instock>
+        <shipmentPeriod>1</shipmentPeriod>
+        <outlets>
+          <outlet id="d609ffee-37d6-454e-a53f-c45ad00892bd" instock="999"/>
+        </outlets>
       </offer>
     </offers>
   </shop>
