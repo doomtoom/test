@@ -1,14 +1,12 @@
-<yml_catalog date="2024-03-20 11:15">
+<yml_catalog date="2025-10-01 16:11">
 <shop>
 <offers>
-<offer id="3642104" group_id="еще один">
+<offer id="3640408">
 <outlets>
-<outlet id="Первый" instock="12"/>
-<outlet id="Второй" instock="16"/>
+<outlet id="d609ffee-37d6-454e-a53f-c45ad00892bd" instock="12"/>
 </outlets>
 <priceZones>
-<priceZone id="Москва" price= "3001"/>
-<priceZone id="Санкт-Петербург" price= "5001"/>
+<priceZone id="3" price= "3001"/>
 </priceZones>
 </offer>
 </offers>
