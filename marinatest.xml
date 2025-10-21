@@ -1,17 +1,18 @@
-<yml_catalog date="2025-10-06 16:25">
+<yml_catalog date="2025-10-21 16:25">
 <shop>
 <offers>
-<offer id="123429214411">
+<offer id="1">
 <outlets>
-<outlet id="1" instock="12"/>
+<outlet id="Склад в Буграх" instock="12"/>
 </outlets>
 <priceZones>
-<priceZone id="1" price= "3001"/>
+<priceZone id="Единая ценовая зона" price= "3001"/>
 </priceZones>
 </offer>
 </offers>
 </shop>
 </yml_catalog>
+
 
 
 
