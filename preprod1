@@ -1,11 +1,12 @@
-
-<offer id="36467657657">
+<yml_catalog date="2025-12-24 14:10">
+<shop>
+<offers>
+<offer id="001.01-L">
 <outlets>
-<outlet id="1" instock="999"/>
-<outlet id="2" instock="999"/>
+<outlet id="1" instock="567"/>
 </outlets>
 <priceZones>
-<priceZone id="1" price= "3001"/>
+<priceZone id="1" price= "666"/>
 </priceZones>
 </offer>
 </offers>
