@@ -3,7 +3,7 @@
 <offers>
 <offer id="001.01-L">
 <outlets>
-<outlet id="1" instock="567"/>
+<outlet id="1" instock="4"/>
 </outlets>
 <priceZones>
 <priceZone id="1" price= "666"/>
