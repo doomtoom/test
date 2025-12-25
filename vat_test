@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2025-12-25 15:16">
+<yml_catalog date="2025-12-25 17:16">
   <shop>
     <offers>
-      <offer id="01" available="true">
+      <offer id="01">
         <price>8888</price>
         <vat>22</vat>
         <outlets>
