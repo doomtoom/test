@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2025-12-24 14:00">
+<yml_catalog date="2025-12-25 15:16">
   <shop>
     <offers>
-      <offer id="348534536459639569" available="true">
+      <offer id="01" available="true">
         <price>8888</price>
+        <vat>22</vat>
         <outlets>
-          <outlet id="2" instock="999"/>
+          <outlet id="ЕДИНСТВЕННЫЙ" instock="999"/>
         </outlets>
       </offer>
     </offers>
