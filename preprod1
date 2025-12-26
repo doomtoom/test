@@ -6,7 +6,7 @@
         <vat>VAT_20</vat>
         <shipmentPeriod>5</shipmentPeriod>
         <outlets>
-          <outlet id="первый склад" instock="1"/>
+          <outlet id="1" instock="1"/>
         </outlets>
       </offer>
       <offer id="3334" available="true">
