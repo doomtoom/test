@@ -12,12 +12,16 @@
       <offer id="44535" available="true">
         <price>100000</price>
         <vat>VAT_22</vat>
-        <count>1</count>
+        <outlets>
+          <outlet id="1" instock="1"/>
+        </outlets>
       </offer>
       <offer id="44536" available="true">
         <price>100000</price>
         <vat>VAT_7</vat>
-        <instock>1</instock>
+        <outlets>
+          <outlet id="1" instock="1"/>
+        </outlets>
       </offer>
     </offers>
   </shop>
