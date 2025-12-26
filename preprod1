@@ -11,13 +11,11 @@
       </offer>
       <offer id="3334" available="true">
         <price>10002</price>
-        <vat>VAT_10</vat>
         <shipmentPeriod>5</shipmentPeriod>
         <count>1</count>
       </offer>
       <offer id="3399" available="true">
         <price>10003</price>
-        <vat>VAT_22</vat>
         <shipmentPeriod>5</shipmentPeriod>
         <instock>1</instock>
       </offer>
