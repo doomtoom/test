@@ -10,7 +10,7 @@
         </outlets>
       </offer>
       <offer id="10" available="true">
-        <price>100000</price>
+        <price>55000</price>
         <vat>22</vat>
         <outlets>
           <outlet id="РАЗ" instock="1"/>
