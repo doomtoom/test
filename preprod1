@@ -1,9 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <yml_catalog date="2021-12-26 17:15">
   <shop>
     <offers>
       <offer id="67788" available="true">
         <price>10001</price>
-        <vat>VAT_20</vat>
         <shipmentPeriod>5</shipmentPeriod>
         <outlets>
           <outlet id="1" instock="1"/>
