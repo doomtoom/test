@@ -4,7 +4,7 @@
     <offers>
       <offer id="1" available="true">
         <price>1100000</price>
-        <vat>VAT_20</vat>
+        <vat>20</vat>
         <outlets>
             <outlet id="РАЗ" instock="1"/>
         </outlets>
@@ -18,7 +18,7 @@
       </offer>
       <offer id="11" available="true">
         <price>100000</price>
-        <vat>VAT_7</vat>
+        <vat>10</vat>
         <outlets>
           <outlet id="РАЗ" instock="1"/>
         </outlets>
