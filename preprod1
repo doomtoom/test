@@ -3,19 +3,19 @@
   <shop>
     <offers>
       <offer id="67788" available="true">
-        <price>10001</price>
+        <price>1100000</price>
         <shipmentPeriod>5</shipmentPeriod>
         <outlets>
           <outlet id="1" instock="1"/>
         </outlets>
       </offer>
       <offer id="3334" available="true">
-        <price>10002</price>
+        <price>100000</price>
         <shipmentPeriod>5</shipmentPeriod>
         <count>1</count>
       </offer>
       <offer id="3399" available="true">
-        <price>10003</price>
+        <price>100000</price>
         <shipmentPeriod>5</shipmentPeriod>
         <instock>1</instock>
       </offer>
