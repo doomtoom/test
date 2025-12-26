@@ -4,14 +4,14 @@
     <offers>
       <offer id="1" available="true">
         <price>1100000</price>
-        <vat>20</vat>
+        <vat>VAT_20</vat>
         <outlets>
             <outlet id="РАЗ" instock="1"/>
         </outlets>
       </offer>
       <offer id="10" available="true">
         <price>55000</price>
-        <vat>22</vat>
+        <vat>VAT_10</vat>
         <outlets>
           <outlet id="РАЗ" instock="1"/>
         </outlets>
