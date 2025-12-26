@@ -6,21 +6,21 @@
         <price>1100000</price>
         <vat>VAT_20</vat>
         <outlets>
-          <outlet id="1" instock="1"/>
+            <outlet id="РАЗ" instock="1"/>
         </outlets>
       </offer>
       <offer id="10" available="true">
         <price>100000</price>
         <vat>VAT_22</vat>
         <outlets>
-          <outlet id="1" instock="1"/>
+          <outlet id="РАЗ" instock="1"/>
         </outlets>
       </offer>
       <offer id="11" available="true">
         <price>100000</price>
         <vat>VAT_7</vat>
         <outlets>
-          <outlet id="1" instock="1"/>
+          <outlet id="РАЗ" instock="1"/>
         </outlets>
       </offer>
     </offers>
