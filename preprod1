@@ -1,14 +1,27 @@
-<yml_catalog date="2025-12-24 15:55">
-<shop>
-<offers>
-<offer id="001.01-L">
-<outlets>
-<outlet id="1" instock="4"/>
-</outlets>
-<priceZones>
-<priceZone id="1" price= "666"/>
-</priceZones>
-</offer>
-</offers>
-</shop>
+?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2021-12-26 17:15">
+  <shop>
+    <offers>
+      <offer id="67788" available="true">
+        <price>10001</price>
+        <vat>VAT_20</vat>
+        <shipmentPeriod>5</shipmentPeriod>
+        <outlets>
+          <outlet id="первый склад" instock="1"/>
+        </outlets>
+      </offer>
+      <offer id="3334" available="true">
+        <price>10002</price>
+        <vat>VAT_10</vat>
+        <shipmentPeriod>5</shipmentPeriod>
+        <count>1</count>
+      </offer>
+      <offer id="3399" available="true">
+        <price>10003</price>
+        <vat>VAT_22</vat>
+        <shipmentPeriod>5</shipmentPeriod>
+        <instock>1</instock>
+      </offer>
+    </offers>
+  </shop>
 </yml_catalog>
