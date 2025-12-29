@@ -6,7 +6,7 @@
         <price>4000</price>
         <vat>22</vat>
         <outlets>
-            <outlet id="РАЗ" instock="1"/>
+            <outlet id="1" instock="1"/>
         </outlets>
       </offer>
       <offer id="3334" available="true">
