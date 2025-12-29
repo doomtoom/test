@@ -1,11 +1,11 @@
 <yml_catalog date="2025-12-25 17:16">
   <shop>
     <offers>
-      <offer id="01">
+      <offer id="3333">
         <price>8888</price>
-        <vat>22</vat>
+        <vat>VAT_22</vat>
         <outlets>
-          <outlet id="ЕДИНСТВЕННЫЙ" instock="999"/>
+          <outlet id="1" instock="999"/>
         </outlets>
       </offer>
     </offers>
