@@ -11,7 +11,7 @@
       </offer>
       <offer id="3334" available="true">
         <price>4000</price>
-        <vat>VAT_22</vat
+        <vat>VAT_22</vat>
         <outlets>
           <outlet id="РАЗ" instock="1"/>
         </outlets>
