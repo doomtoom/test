@@ -3,21 +3,21 @@
   <shop>
     <offers>
       <offer id="3333" available="true">
-        <price>1100000</price>
+        <price>4000</price>
         <vat>22</vat>
         <outlets>
             <outlet id="РАЗ" instock="1"/>
         </outlets>
       </offer>
-      <offer id="10" available="true">
-        <price>55000</price>
+      <offer id="3334" available="true">
+        <price>4000</price>
         <vat>VAT_22</vat
         <outlets>
           <outlet id="РАЗ" instock="1"/>
         </outlets>
       </offer>
-      <offer id="11" available="true">
-        <price>100000</price>
+      <offer id="3335" available="true">
+        <price>6000</price>
         <vat>10</vat>
         <outlets>
           <outlet id="РАЗ" instock="1"/>
