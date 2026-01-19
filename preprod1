@@ -6,14 +6,14 @@
         <price>4000</price>
         <vat>22</vat>
         <outlets>
-            <outlet id="1" instock="1"/>
+            <outlet id="Склад в Буграх" instock="1"/>
         </outlets>
       </offer>
       <offer id="55556" available="true">
         <price>4000</price>
         <vat>VAT_22</vat>
         <outlets>
-          <outlet id="1" instock="1"/>
+          <outlet id="Склад в Буграх" instock="1"/>
         </outlets>
       </offer>
     </offers>
