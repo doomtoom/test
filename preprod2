@@ -1,13 +1,7 @@
-<yml_catalog date="2025-12-24 14:10">
+<yml_catalog date="2026-02-11 14:10">
 <shop>
 <offers>
-<offer id="348534536459639569">
-<outlets>
-<outlet id="2" instock="7"/>
-</outlets>
-<priceZones>
-<priceZone id="1" price= "666"/>
-</priceZones>
+<offer id="129767468121"  available="true">
 </offer>
 </offers>
 </shop>
