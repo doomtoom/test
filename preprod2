@@ -2,6 +2,9 @@
 <shop>
 <offers>
 <offer id="129767468121"  available="true">
+<outlets>
+<outlet id="Склад в СПБ" instock="9"/>
+</outlets>
 <price>90000</price>
 </offer>
 </offers>
