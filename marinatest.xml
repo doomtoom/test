@@ -1,14 +1,13 @@
-
-r id="1">
-<outlets>
-<outlet id="Склад в Буграх" instock="12"/>
-</outlets>
-<priceZones>
-<priceZone id="Единая ценовая зона" price= "3001"/>
-</priceZones>
+<yml_catalog date="2026-02-19 14:00">
+<shop>
+<offers>
+<offer id="3334"  available="false">
+<price>9000</price>
 </offer>
 </offers>
 </shop>
+</yml_catalog>
+
 
 
 
