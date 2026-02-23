@@ -2,15 +2,16 @@
 <shop>
 <offers>
 <offer id="160147514162"  available="false">
-<instock>50</instock>
-<price>7000</price>
+<outlets>
+    <outlet id="тест" instock="999999"/>
+</outlets>
+<price>-7000</price>
 <vat>22</vat>
 </offer>
 <offer id="253557056222">
 <count>7</count>
 <vat>VAT_22</vat> 
 <price>900</price>
-</offer>
 </offer>
 <offer id="411456086162">
 <count>7</count>
