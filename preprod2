@@ -5,6 +5,10 @@
 <instock>50</instock>
 <price>7000</price>
 </offer>
+<offer id="253557056222>
+<count>7,777</count>
+<price>-7000</price>
+</offer>
 </offers>
 </shop>
 </yml_catalog>
