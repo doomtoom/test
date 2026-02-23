@@ -18,8 +18,9 @@
 <vat>VAT_5</vat> 
 </offer>
 <offer id="450760362572">
-<count>7</count>
-<vat>VAT_99</vat> 
+<count>-7</count>
+<vat>VAT_5</vat> 
+<price>8000</price>
 </offer>
 </offers>
 </shop>
