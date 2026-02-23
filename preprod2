@@ -6,7 +6,7 @@
     <outlet id="тест" instock="999999"/>
 </outlets>
 <price>7000</price>
-<vat>22</vat>
+<vat>VAT_7</vat>
 </offer>
 <offer id="253557056222">
 <count>7</count>
