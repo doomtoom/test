@@ -1,6 +1,8 @@
-<yml_catalog date="2026-02-33 147:00">
-<shop>
-<offers>
+анананан
+агагаа
+аааарр<yml_catalog date="2026-02-33 147:00">
+
+
 <offer id="160147514162"  available="false")
 <outlets>
     <outlet id="тест" instock="999999"/>
@@ -23,4 +25,3 @@
 <price>8000</price>
 </offer>
 </offers>
-</yml_catalog>
