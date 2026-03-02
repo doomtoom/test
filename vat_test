@@ -5,6 +5,10 @@
         <price>8888</price>
         <vat>10</vat>
       </offer>
+      <offer id="110648630791"  available="false">
+        <price>8888</price>
+        <vat>10</vat>
+      </offer>
     </offers>
   </shop>
 </yml_catalog>
