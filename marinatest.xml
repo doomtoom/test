@@ -4,6 +4,12 @@
 <offer id="160147514162"  available="true"
 <price>4444</price>
 </offer>
+</offer>
+<offer id="23456">
+<count>7</count>
+<vat>VAT_5</vat> 
+<price>-7</price> 
+</offer>
 </offers>
 </shop>
 </yml_catalog>
