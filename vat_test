@@ -4,6 +4,7 @@
       <offer id="160147514162">
       <count>1000</count>
         <price>4500</price>
+        <oldprice>4500</oldprice>
         <vat>10</vat>
       </offer>
       <offer id="253557056222"  available="true">
