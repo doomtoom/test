@@ -3,7 +3,7 @@
   <shop>
     <offers>
       <offer id="0BORGB-001" available="true">
-        <price>-55.000</price>
+        <price</price>
         <vat>22</vat>
         <outlets>
             <outlet id="единственный" instock="1"/>
