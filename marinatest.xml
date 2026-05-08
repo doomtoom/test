@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' gggggencoding='UTF-8'?>gggggggввмм
 <yml_catalog date="2026-05-08 10:45">
   <shop>
     <offers>
       <offer id="0BORGB-001" available="true">
-        <price</price>
+        <price></price>
         <vat>22</vat>
         <outlets>
             <outlet id="единственный" instock="1"/>
@@ -18,7 +18,7 @@
       </offer>
     </offers>
   </shop>
-</yml_catalog>
+</yml_catalog
 
 
 
