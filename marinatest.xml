@@ -7,8 +7,7 @@
         <vat>22</vat>
         <outlets>
             <outlet id="единственный" instock="1"/>
-        </outlets>
-      </offer>
+       
       <offer id="0BORGB-002" available="true">
         <price>50003</price>
         <vat>VAT_22</vat>
