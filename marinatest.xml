@@ -2,7 +2,7 @@
 <yml_catalog date="2026-05-08 10:45">
   <shop>
     <offers>
-      <offer id="0BORGB-001" available="true">
+      <offer id="0BORGB-001" available="true"?
         <price></price>
         <vat>22</vat>
         <outlets>
