@@ -16,6 +16,19 @@
           <outlet id="единственный" instock="9"/>
         </outlets>
      </offer>
+      <offer id="0BLRW-002" available="false">
+        <price>50003</price>
+        <vat>22</vat>
+        <instock>50</instock>
+     </offer>
+      <offer id="0ALY-001" available="false">
+         <count>50</count>
+     </offer>
+       <offer id="0BORGW-002" available="true">
+     </offer>
+      <offer id="0KASSELB-001">
+        <price>90000</price>
+     </offer>
     </offers>
   </shop>
 </yml_catalog>
