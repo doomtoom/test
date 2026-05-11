@@ -2,19 +2,21 @@
 <yml_catalog date="2026-05-08 10:45">
   <shop>
     <offers>
-      <offer id="0BORGB-001" available="true"?
-        <price></price>
-        <vat>22</vat>
+      <offer id="0BORGB-001" available="true">
+        <price>10000</price>
+        <vat>5</vat>
         <outlets>
             <outlet id="единственный" instock="1"/>
-       
+        </outlets>
+      </offer>
       <offer id="0BORGB-002" available="true">
         <price>50003</price>
-        <vat>VAT_22</vat>
+        <vat>10</vat>
         <outlets>
           <outlet id="единственный" instock="9"/>
         </outlets>
-     
+     </offer>
+    </offers>
   </shop>
 </yml_catalog>
 
