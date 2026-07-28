@@ -1,8 +1,9 @@
-<yml_ca
+<yml_catalog
   <shop>
-    <of
-      <count>1000</count>
-        <price>4500</price>
+    <offers>
+     <offer id="109829883501"  available="true">
+      <count>6</count>
+        <price>7000</price>
         <oldprice>4500</oldprice>
         <vat>10</vat>
       </offer>
