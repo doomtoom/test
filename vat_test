@@ -1,14 +1,12 @@
 <yml_catalog  date="2026-07-28 14:44">
   <shop>
     <offers>
-     <offer id="109829883501"  available="true">
-      <count>6</count>
+     <offer id="109829883501">
         <price>7000</price>
         <oldprice>4500</oldprice>
         <vat>10</vat>
       </offer>
-      <offer id="110648630791"  available="true">
-        <count>1000</count>
+      <offer id="110648630791">
         <price>17000</price>
         <vat>10</vat>
       </offer>
