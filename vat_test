@@ -4,12 +4,14 @@
      <offer id="00e5fe5e-f737-11ee-b025-002522bfe123" available="false" >
         <price>7000</price>
         <oldprice>8000</oldprice>
-        <instock>50</instock>
-        <vat>10</vat>
+        <vat>22</vat>
       </offer>
       <offer id="00e5fe68-f737-11ee-b025-002522bfe123">
         <price>17000</price>
         <vat>10</vat>
+        <outlets>
+          <outlet id="1" instock="50"/>
+        </outlets>
       </offer>
     </offers>
   </shop>
